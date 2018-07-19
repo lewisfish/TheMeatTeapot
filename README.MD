@@ -4,10 +4,8 @@
 The file format for *.mt files is as below.
 The header of the file is commented out using two forward slashes (//) and * represents unavailable data.
 
-<br><br>  
 
 ## File format for optical properties
-<br><br>  
 
 // Name of material
   
